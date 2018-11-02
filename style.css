@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Spicy+Rice');
+
+html {
+    background-color: rgb(221, 180, 252);
+
+}
+
+header {
+    background-color: white;
+    text-align: center;
+    font-family: 'Spicy Rice', cursive;
+}
+
+footer {
+    background-color: white;
+    font-style: italic;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+footer a {
+    padding: .5em;
+}
